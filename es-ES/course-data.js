@@ -1526,7 +1526,7 @@ window.COURSE = {
         {
           "id": "excel-37",
           "title": "Subtotales y agrupaciones",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "20 min",
           "intro": "Aprende «Subtotales y agrupaciones» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1565,7 +1565,7 @@ window.COURSE = {
         {
           "id": "excel-38",
           "title": "Buscar objetivo y Administrador de escenarios",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "25 min",
           "intro": "Aprende «Buscar objetivo y Administrador de escenarios» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1604,7 +1604,7 @@ window.COURSE = {
         {
           "id": "excel-39",
           "title": "Solver: optimizar una decisión",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "28 min",
           "intro": "Aprende «Solver: optimizar una decisión» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1649,7 +1649,7 @@ window.COURSE = {
         {
           "id": "excel-40",
           "title": "Importar un CSV y corregir tipos",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "24 min",
           "intro": "Aprende «Importar un CSV y corregir tipos» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1688,7 +1688,7 @@ window.COURSE = {
         {
           "id": "excel-41",
           "title": "Transformar y combinar tablas en Power Query",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "28 min",
           "intro": "Aprende «Transformar y combinar tablas en Power Query» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1727,7 +1727,7 @@ window.COURSE = {
         {
           "id": "excel-42",
           "title": "Grabar la primera macro de forma segura",
-          "level": "Profesional",
+          "level": "Avanzado",
           "duration": "26 min",
           "intro": "Aprende «Grabar la primera macro de forma segura» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1772,7 +1772,7 @@ window.COURSE = {
         {
           "id": "excel-43",
           "title": "Proyecto: crear un presupuesto personal",
-          "level": "Proyectos",
+          "level": "Profesional",
           "duration": "45 min",
           "intro": "Aprende «Proyecto: crear un presupuesto personal» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1811,7 +1811,7 @@ window.COURSE = {
         {
           "id": "excel-44",
           "title": "Proyecto: crear un control de existencias",
-          "level": "Proyectos",
+          "level": "Profesional",
           "duration": "50 min",
           "intro": "Aprende «Proyecto: crear un control de existencias» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1850,7 +1850,7 @@ window.COURSE = {
         {
           "id": "excel-45",
           "title": "Proyecto: crear un panel de gestión",
-          "level": "Proyectos",
+          "level": "Profesional",
           "duration": "60 min",
           "intro": "Aprende «Proyecto: crear un panel de gestión» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
           "objectives": [
@@ -1877,6 +1877,621 @@ window.COURSE = {
           },
           "quiz": {
             "question": "¿Qué método ayuda más a dominar «Proyecto: crear un panel de gestión»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Módulo 16",
+      "title": "Colaboración y trabajo en la nube",
+      "lessons": [
+        {
+          "id": "excel-46",
+          "title": "Compartir y editar simultáneamente",
+          "level": "Profesional",
+          "duration": "24 min",
+          "intro": "Aprende «Compartir y editar simultáneamente» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Compartir y editar simultáneamente»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Archivo → Compartir → OneDrive o SharePoint</strong>.",
+            "Aplica «Compartir y editar simultáneamente» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Compartir y editar simultáneamente</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Compartir y editar simultáneamente» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Compartir y editar simultáneamente» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Compartir y editar simultáneamente»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-47",
+          "title": "Comentarios, notas e historial de versiones",
+          "level": "Profesional",
+          "duration": "22 min",
+          "intro": "Aprende «Comentarios, notas e historial de versiones» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Comentarios, notas e historial de versiones»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Revisar → Nuevo comentario y Archivo → Historial de versiones</strong>.",
+            "Aplica «Comentarios, notas e historial de versiones» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Comentarios, notas e historial de versiones</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Comentarios, notas e historial de versiones» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Comentarios, notas e historial de versiones» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Comentarios, notas e historial de versiones»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-48",
+          "title": "Proyecto: libro de equipo controlado",
+          "level": "Profesional",
+          "duration": "40 min",
+          "intro": "Aprende «Proyecto: libro de equipo controlado» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Proyecto: libro de equipo controlado»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Archivo → Compartir y Revisar → Proteger hoja</strong>.",
+            "Aplica «Proyecto: libro de equipo controlado» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Proyecto: libro de equipo controlado</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Proyecto: libro de equipo controlado» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Proyecto: libro de equipo controlado» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Proyecto: libro de equipo controlado»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Módulo 17",
+      "title": "Diseño de fórmulas modernas",
+      "lessons": [
+        {
+          "id": "excel-49",
+          "title": "SI.ERROR, Y, O y lógica combinada",
+          "level": "Profesional",
+          "duration": "26 min",
+          "intro": "Aprende «SI.ERROR, Y, O y lógica combinada» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «SI.ERROR, Y, O y lógica combinada»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Fórmulas → Lógicas → SI.ERROR, Y u O</strong>.",
+            "Aplica «SI.ERROR, Y, O y lógica combinada» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>SI.ERROR, Y, O y lógica combinada</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «SI.ERROR, Y, O y lógica combinada» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «SI.ERROR, Y, O y lógica combinada» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «SI.ERROR, Y, O y lógica combinada»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-50",
+          "title": "BUSCARX, INDICE y COINCIDIR",
+          "level": "Profesional",
+          "duration": "28 min",
+          "intro": "Aprende «BUSCARX, INDICE y COINCIDIR» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «BUSCARX, INDICE y COINCIDIR»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Fórmulas → Búsqueda y referencia → BUSCARX, INDICE o COINCIDIR</strong>.",
+            "Aplica «BUSCARX, INDICE y COINCIDIR» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>BUSCARX, INDICE y COINCIDIR</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «BUSCARX, INDICE y COINCIDIR» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «BUSCARX, INDICE y COINCIDIR» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «BUSCARX, INDICE y COINCIDIR»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-51",
+          "title": "LET, LAMBDA y matrices dinámicas",
+          "level": "Profesional",
+          "duration": "32 min",
+          "intro": "Aprende «LET, LAMBDA y matrices dinámicas» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «LET, LAMBDA y matrices dinámicas»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Fórmulas → Administrador de nombres → LET o LAMBDA</strong>.",
+            "Aplica «LET, LAMBDA y matrices dinámicas» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>LET, LAMBDA y matrices dinámicas</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «LET, LAMBDA y matrices dinámicas» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «LET, LAMBDA y matrices dinámicas» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «LET, LAMBDA y matrices dinámicas»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Módulo 18",
+      "title": "Modelo de datos y Power Pivot",
+      "lessons": [
+        {
+          "id": "excel-52",
+          "title": "Relacionar tablas en el modelo de datos",
+          "level": "Profesional",
+          "duration": "28 min",
+          "intro": "Aprende «Relacionar tablas en el modelo de datos» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Relacionar tablas en el modelo de datos»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Datos → Relaciones → Modelo de datos</strong>.",
+            "Aplica «Relacionar tablas en el modelo de datos» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Relacionar tablas en el modelo de datos</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Relacionar tablas en el modelo de datos» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Relacionar tablas en el modelo de datos» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Relacionar tablas en el modelo de datos»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-53",
+          "title": "Medidas DAX y contexto de filtro",
+          "level": "Profesional",
+          "duration": "32 min",
+          "intro": "Aprende «Medidas DAX y contexto de filtro» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Medidas DAX y contexto de filtro»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Power Pivot → Medidas → Nueva medida</strong>.",
+            "Aplica «Medidas DAX y contexto de filtro» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Medidas DAX y contexto de filtro</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Medidas DAX y contexto de filtro» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Medidas DAX y contexto de filtro» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Medidas DAX y contexto de filtro»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-54",
+          "title": "Proyecto: modelo analítico de ventas",
+          "level": "Profesional",
+          "duration": "50 min",
+          "intro": "Aprende «Proyecto: modelo analítico de ventas» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Proyecto: modelo analítico de ventas»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Datos → Obtener datos y Power Pivot → Administrar</strong>.",
+            "Aplica «Proyecto: modelo analítico de ventas» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Proyecto: modelo analítico de ventas</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Proyecto: modelo analítico de ventas» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Proyecto: modelo analítico de ventas» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Proyecto: modelo analítico de ventas»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Módulo 19",
+      "title": "Análisis visual avanzado",
+      "lessons": [
+        {
+          "id": "excel-55",
+          "title": "Gráficos combinados y eje secundario",
+          "level": "Profesional",
+          "duration": "26 min",
+          "intro": "Aprende «Gráficos combinados y eje secundario» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Gráficos combinados y eje secundario»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Insertar → Gráfico combinado → Eje secundario</strong>.",
+            "Aplica «Gráficos combinados y eje secundario» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Gráficos combinados y eje secundario</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Gráficos combinados y eje secundario» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Gráficos combinados y eje secundario» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Gráficos combinados y eje secundario»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-56",
+          "title": "Previsión, tipos de datos y Analizar datos",
+          "level": "Profesional",
+          "duration": "28 min",
+          "intro": "Aprende «Previsión, tipos de datos y Analizar datos» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Previsión, tipos de datos y Analizar datos»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Datos → Hoja de previsión o Analizar datos</strong>.",
+            "Aplica «Previsión, tipos de datos y Analizar datos» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Previsión, tipos de datos y Analizar datos</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Previsión, tipos de datos y Analizar datos» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Previsión, tipos de datos y Analizar datos» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Previsión, tipos de datos y Analizar datos»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-57",
+          "title": "Proyecto: panel ejecutivo adaptable",
+          "level": "Profesional",
+          "duration": "55 min",
+          "intro": "Aprende «Proyecto: panel ejecutivo adaptable» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Proyecto: panel ejecutivo adaptable»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Insertar → Gráficos, segmentaciones y escala de tiempo</strong>.",
+            "Aplica «Proyecto: panel ejecutivo adaptable» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Proyecto: panel ejecutivo adaptable</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Proyecto: panel ejecutivo adaptable» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Proyecto: panel ejecutivo adaptable» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Proyecto: panel ejecutivo adaptable»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Módulo 20",
+      "title": "Auditoría, gobernanza y proyecto final",
+      "lessons": [
+        {
+          "id": "excel-58",
+          "title": "Auditar fórmulas y mejorar el rendimiento",
+          "level": "Proyectos",
+          "duration": "30 min",
+          "intro": "Aprende «Auditar fórmulas y mejorar el rendimiento» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Auditar fórmulas y mejorar el rendimiento»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Fórmulas → Auditoría de fórmulas → Evaluar fórmula</strong>.",
+            "Aplica «Auditar fórmulas y mejorar el rendimiento» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Auditar fórmulas y mejorar el rendimiento</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Auditar fórmulas y mejorar el rendimiento» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Auditar fórmulas y mejorar el rendimiento» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Auditar fórmulas y mejorar el rendimiento»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-59",
+          "title": "Accesibilidad, privacidad y vínculos externos",
+          "level": "Proyectos",
+          "duration": "28 min",
+          "intro": "Aprende «Accesibilidad, privacidad y vínculos externos» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Accesibilidad, privacidad y vínculos externos»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Revisar → Comprobar accesibilidad y Archivo → Inspeccionar documento</strong>.",
+            "Aplica «Accesibilidad, privacidad y vínculos externos» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Accesibilidad, privacidad y vínculos externos</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Accesibilidad, privacidad y vínculos externos» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Accesibilidad, privacidad y vínculos externos» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Accesibilidad, privacidad y vínculos externos»?",
+            "options": [
+              "Hacer clic rápidamente sin comprobar",
+              "Seguir los pasos, practicar a solas y comprobar el resultado",
+              "Memorizar todos los botones sin practicar"
+            ],
+            "answer": 1,
+            "explain": "La práctica progresiva y la comprobación del resultado permiten aprender de forma duradera."
+          }
+        },
+        {
+          "id": "excel-60",
+          "title": "Proyecto final: sistema completo de gestión",
+          "level": "Proyectos",
+          "duration": "90 min",
+          "intro": "Aprende «Proyecto final: sistema completo de gestión» paso a paso, aunque nunca hayas utilizado este programa. Crearás un resultado concreto antes de continuar.",
+          "objectives": [
+            "Comprender para qué sirve «Proyecto final: sistema completo de gestión»",
+            "Repetir el método en un archivo propio",
+            "Comprobar y presentar un resultado limpio"
+          ],
+          "steps": [
+            "Abre Excel y elige <strong>Archivo → Nuevo</strong>.",
+            "Ve exactamente a <strong>Datos, Fórmulas, Revisar y Archivo → Exportar</strong>.",
+            "Aplica «Proyecto final: sistema completo de gestión» al contenido de práctica y observa inmediatamente el resultado.",
+            "Haz un <strong>ejercicio autónomo</strong> con otro ejemplo sin consultar los pasos.",
+            "Utiliza <strong>Archivo → Guardar</strong>, pon un nombre claro al archivo y comprueba el resultado."
+          ],
+          "shortcuts": [],
+          "tip": "Avanza despacio: en «<strong>Proyecto final: sistema completo de gestión</strong>», comprueba el resultado después de cada clic.",
+          "practice": {
+            "intro": "Realiza ahora «Proyecto final: sistema completo de gestión» en un archivo de prueba.",
+            "tasks": [
+              "Crear o abrir un archivo de práctica en Excel",
+              "Aplicar la técnica «Proyecto final: sistema completo de gestión» al contenido propuesto",
+              "Guardar y comprobar que el resultado sigue siendo correcto"
+            ]
+          },
+          "quiz": {
+            "question": "¿Qué método ayuda más a dominar «Proyecto final: sistema completo de gestión»?",
             "options": [
               "Hacer clic rápidamente sin comprobar",
               "Seguir los pasos, practicar a solas y comprobar el resultado",

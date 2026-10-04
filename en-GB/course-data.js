@@ -1526,7 +1526,7 @@ window.COURSE = {
         {
           "id": "excel-37",
           "title": "Subtotals and groups",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "20 min",
           "intro": "Learn “Subtotals and groups” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1565,7 +1565,7 @@ window.COURSE = {
         {
           "id": "excel-38",
           "title": "Goal Seek and Scenario Manager",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "25 min",
           "intro": "Learn “Goal Seek and Scenario Manager” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1604,7 +1604,7 @@ window.COURSE = {
         {
           "id": "excel-39",
           "title": "Solver: optimise a decision",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "28 min",
           "intro": "Learn “Solver: optimise a decision” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1649,7 +1649,7 @@ window.COURSE = {
         {
           "id": "excel-40",
           "title": "Import a CSV and correct data types",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "24 min",
           "intro": "Learn “Import a CSV and correct data types” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1688,7 +1688,7 @@ window.COURSE = {
         {
           "id": "excel-41",
           "title": "Transform and combine tables in Power Query",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "28 min",
           "intro": "Learn “Transform and combine tables in Power Query” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1727,7 +1727,7 @@ window.COURSE = {
         {
           "id": "excel-42",
           "title": "Record your first macro safely",
-          "level": "Professional",
+          "level": "Advanced",
           "duration": "26 min",
           "intro": "Learn “Record your first macro safely” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1772,7 +1772,7 @@ window.COURSE = {
         {
           "id": "excel-43",
           "title": "Project: create a personal budget",
-          "level": "Projects",
+          "level": "Professional",
           "duration": "45 min",
           "intro": "Learn “Project: create a personal budget” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1811,7 +1811,7 @@ window.COURSE = {
         {
           "id": "excel-44",
           "title": "Project: create a stock tracker",
-          "level": "Projects",
+          "level": "Professional",
           "duration": "50 min",
           "intro": "Learn “Project: create a stock tracker” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1850,7 +1850,7 @@ window.COURSE = {
         {
           "id": "excel-45",
           "title": "Project: create a management dashboard",
-          "level": "Projects",
+          "level": "Professional",
           "duration": "60 min",
           "intro": "Learn “Project: create a management dashboard” step by step, even if you have never used this program. You will produce a useful result before moving on.",
           "objectives": [
@@ -1877,6 +1877,621 @@ window.COURSE = {
           },
           "quiz": {
             "question": "Which method is most effective for mastering “Project: create a management dashboard”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Module 16",
+      "title": "Cloud collaboration",
+      "lessons": [
+        {
+          "id": "excel-46",
+          "title": "Share and edit simultaneously",
+          "level": "Professional",
+          "duration": "24 min",
+          "intro": "Learn “Share and edit simultaneously” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Share and edit simultaneously” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>File → Share → OneDrive or SharePoint</strong>.",
+            "Apply “Share and edit simultaneously” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Share and edit simultaneously</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Share and edit simultaneously” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Share and edit simultaneously” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Share and edit simultaneously”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-47",
+          "title": "Comments, notes and version history",
+          "level": "Professional",
+          "duration": "22 min",
+          "intro": "Learn “Comments, notes and version history” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Comments, notes and version history” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Review → New Comment and File → Version History</strong>.",
+            "Apply “Comments, notes and version history” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Comments, notes and version history</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Comments, notes and version history” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Comments, notes and version history” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Comments, notes and version history”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-48",
+          "title": "Project: controlled team workbook",
+          "level": "Professional",
+          "duration": "40 min",
+          "intro": "Learn “Project: controlled team workbook” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Project: controlled team workbook” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>File → Share and Review → Protect Sheet</strong>.",
+            "Apply “Project: controlled team workbook” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Project: controlled team workbook</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Project: controlled team workbook” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Project: controlled team workbook” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Project: controlled team workbook”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Module 17",
+      "title": "Modern formula engineering",
+      "lessons": [
+        {
+          "id": "excel-49",
+          "title": "IFERROR, AND, OR and combined logic",
+          "level": "Professional",
+          "duration": "26 min",
+          "intro": "Learn “IFERROR, AND, OR and combined logic” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “IFERROR, AND, OR and combined logic” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Formulas → Logical → IFERROR, AND or OR</strong>.",
+            "Apply “IFERROR, AND, OR and combined logic” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>IFERROR, AND, OR and combined logic</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “IFERROR, AND, OR and combined logic” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “IFERROR, AND, OR and combined logic” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “IFERROR, AND, OR and combined logic”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-50",
+          "title": "XLOOKUP, INDEX and MATCH",
+          "level": "Professional",
+          "duration": "28 min",
+          "intro": "Learn “XLOOKUP, INDEX and MATCH” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “XLOOKUP, INDEX and MATCH” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Formulas → Lookup & Reference → XLOOKUP, INDEX or MATCH</strong>.",
+            "Apply “XLOOKUP, INDEX and MATCH” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>XLOOKUP, INDEX and MATCH</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “XLOOKUP, INDEX and MATCH” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “XLOOKUP, INDEX and MATCH” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “XLOOKUP, INDEX and MATCH”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-51",
+          "title": "LET, LAMBDA and dynamic arrays",
+          "level": "Professional",
+          "duration": "32 min",
+          "intro": "Learn “LET, LAMBDA and dynamic arrays” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “LET, LAMBDA and dynamic arrays” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Formulas → Name Manager → LET or LAMBDA</strong>.",
+            "Apply “LET, LAMBDA and dynamic arrays” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>LET, LAMBDA and dynamic arrays</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “LET, LAMBDA and dynamic arrays” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “LET, LAMBDA and dynamic arrays” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “LET, LAMBDA and dynamic arrays”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Module 18",
+      "title": "Data Model and Power Pivot",
+      "lessons": [
+        {
+          "id": "excel-52",
+          "title": "Relate tables in the Data Model",
+          "level": "Professional",
+          "duration": "28 min",
+          "intro": "Learn “Relate tables in the Data Model” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Relate tables in the Data Model” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Data → Relationships → Data Model</strong>.",
+            "Apply “Relate tables in the Data Model” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Relate tables in the Data Model</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Relate tables in the Data Model” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Relate tables in the Data Model” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Relate tables in the Data Model”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-53",
+          "title": "DAX measures and filter context",
+          "level": "Professional",
+          "duration": "32 min",
+          "intro": "Learn “DAX measures and filter context” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “DAX measures and filter context” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Power Pivot → Measures → New Measure</strong>.",
+            "Apply “DAX measures and filter context” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>DAX measures and filter context</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “DAX measures and filter context” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “DAX measures and filter context” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “DAX measures and filter context”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-54",
+          "title": "Project: analytical sales model",
+          "level": "Professional",
+          "duration": "50 min",
+          "intro": "Learn “Project: analytical sales model” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Project: analytical sales model” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Data → Get Data and Power Pivot → Manage</strong>.",
+            "Apply “Project: analytical sales model” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Project: analytical sales model</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Project: analytical sales model” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Project: analytical sales model” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Project: analytical sales model”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Module 19",
+      "title": "Advanced visual analysis",
+      "lessons": [
+        {
+          "id": "excel-55",
+          "title": "Combo charts and a secondary axis",
+          "level": "Professional",
+          "duration": "26 min",
+          "intro": "Learn “Combo charts and a secondary axis” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Combo charts and a secondary axis” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Insert → Combo Chart → Secondary Axis</strong>.",
+            "Apply “Combo charts and a secondary axis” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Combo charts and a secondary axis</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Combo charts and a secondary axis” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Combo charts and a secondary axis” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Combo charts and a secondary axis”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-56",
+          "title": "Forecasting, data types and Analyze Data",
+          "level": "Professional",
+          "duration": "28 min",
+          "intro": "Learn “Forecasting, data types and Analyze Data” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Forecasting, data types and Analyze Data” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Data → Forecast Sheet or Analyze Data</strong>.",
+            "Apply “Forecasting, data types and Analyze Data” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Forecasting, data types and Analyze Data</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Forecasting, data types and Analyze Data” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Forecasting, data types and Analyze Data” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Forecasting, data types and Analyze Data”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-57",
+          "title": "Project: responsive executive dashboard",
+          "level": "Professional",
+          "duration": "55 min",
+          "intro": "Learn “Project: responsive executive dashboard” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Project: responsive executive dashboard” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Insert → Charts, slicers and timeline</strong>.",
+            "Apply “Project: responsive executive dashboard” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Project: responsive executive dashboard</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Project: responsive executive dashboard” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Project: responsive executive dashboard” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Project: responsive executive dashboard”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        }
+      ]
+    },
+    {
+      "number": "Module 20",
+      "title": "Audit, governance and final project",
+      "lessons": [
+        {
+          "id": "excel-58",
+          "title": "Audit formulas and improve performance",
+          "level": "Projects",
+          "duration": "30 min",
+          "intro": "Learn “Audit formulas and improve performance” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Audit formulas and improve performance” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Formulas → Formula Auditing → Evaluate Formula</strong>.",
+            "Apply “Audit formulas and improve performance” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Audit formulas and improve performance</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Audit formulas and improve performance” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Audit formulas and improve performance” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Audit formulas and improve performance”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-59",
+          "title": "Accessibility, privacy and external links",
+          "level": "Projects",
+          "duration": "28 min",
+          "intro": "Learn “Accessibility, privacy and external links” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Accessibility, privacy and external links” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Review → Check Accessibility and File → Inspect Document</strong>.",
+            "Apply “Accessibility, privacy and external links” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Accessibility, privacy and external links</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Accessibility, privacy and external links” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Accessibility, privacy and external links” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Accessibility, privacy and external links”?",
+            "options": [
+              "Click quickly without checking",
+              "Follow the steps, practise independently and check the result",
+              "Memorise every button without practising"
+            ],
+            "answer": 1,
+            "explain": "Progressive practice and checking the result build lasting skills."
+          }
+        },
+        {
+          "id": "excel-60",
+          "title": "Final project: complete management system",
+          "level": "Projects",
+          "duration": "90 min",
+          "intro": "Learn “Final project: complete management system” step by step, even if you have never used this program. You will produce a useful result before moving on.",
+          "objectives": [
+            "Understand why “Final project: complete management system” is useful",
+            "Repeat the method in your own file",
+            "Check and present a clear result"
+          ],
+          "steps": [
+            "Open Excel, then choose <strong>File → New</strong>.",
+            "Go to <strong>Data, Formulas, Review and File → Export</strong>.",
+            "Apply “Final project: complete management system” to the practice content and observe the result immediately.",
+            "Complete an <strong>independent exercise</strong> with another example without reading the steps.",
+            "Choose <strong>File → Save</strong>, give the file a clear name and check the result."
+          ],
+          "shortcuts": [],
+          "tip": "Work slowly: for “<strong>Final project: complete management system</strong>”, check the result after every click before continuing.",
+          "practice": {
+            "intro": "Now complete “Final project: complete management system” in a practice file.",
+            "tasks": [
+              "Create or open a practice file in Excel",
+              "Apply the “Final project: complete management system” technique to the suggested content",
+              "Save the file and check that the result remains correct"
+            ]
+          },
+          "quiz": {
+            "question": "Which method is most effective for mastering “Final project: complete management system”?",
             "options": [
               "Click quickly without checking",
               "Follow the steps, practise independently and check the result",

@@ -485,6 +485,166 @@ window.COURSE = {
           quiz: { question: 'Qual deve ser o primeiro passo ao criar um painel?', options: ['Definir a pergunta e o utilizador', 'Escolher muitas cores', 'Criar dez gráficos'], answer: 0, explain: 'O objetivo determina quais dados, indicadores e gráficos realmente fazem sentido.' }
         }
       ]
+    },
+    {
+      number: 'Módulo 16', title: 'Colaboração e trabalho na nuvem',
+      lessons: [
+        {
+          id: 'excel-46', title: 'Partilhar e editar em simultâneo', level: 'Profissional', duration: '24 min',
+          intro: 'Guarde o livro no OneDrive ou SharePoint e trabalhe com outras pessoas sem criar várias cópias incompatíveis.',
+          objectives: ['Partilhar um livro com permissões adequadas', 'Reconhecer alterações feitas por outros utilizadores'],
+          steps: ['Escolha <strong>Ficheiro → Guardar Como → OneDrive</strong> e confirme o nome do livro.', 'Clique em <strong>Partilhar</strong>, escolha quem pode aceder e decida se essas pessoas podem editar ou apenas ver.', 'Abra o livro com outra conta ou peça a um colega para editar uma célula; confirme os indicadores de presença e a gravação automática.'],
+          tip: 'Partilhe uma ligação com pessoas específicas quando o livro contém informação interna.',
+          practice: { intro: 'Partilhe uma cópia de treino e teste a edição simultânea.', tasks: ['Livro guardado na nuvem', 'Permissão de edição ou leitura definida', 'Alteração simultânea confirmada'] },
+          quiz: { question: 'Onde deve estar guardado o livro para coautoria moderna?', options: ['OneDrive ou SharePoint', 'Apenas numa pen USB', 'Na Reciclagem'], answer: 0, explain: 'A coautoria depende de uma localização na nuvem compatível e de permissões corretas.' }
+        },
+        {
+          id: 'excel-47', title: 'Comentários, notas e histórico de versões', level: 'Profissional', duration: '22 min',
+          intro: 'Converse sobre valores, preserve explicações e recupere uma versão anterior sem duplicar ficheiros.',
+          objectives: ['Distinguir comentários modernos de notas', 'Consultar e restaurar o histórico de versões'],
+          steps: ['Selecione uma célula e use <strong>Rever → Novo Comentário</strong>; mencione uma pessoa com @ quando apropriado.', 'Use uma <strong>Nota</strong> apenas para uma anotação simples sem conversa e resolva comentários concluídos.', 'Abra <strong>Ficheiro → Informações → Histórico de Versões</strong>, compare uma versão anterior e restaure apenas numa cópia de treino.'],
+          tip: 'Resolver um comentário mantém o histórico da conversa; eliminar remove-o.',
+          practice: { intro: 'Simule a revisão de um orçamento por duas pessoas.', tasks: ['Comentário com resposta criado', 'Nota explicativa adicionada', 'Versão anterior aberta e comparada'] },
+          quiz: { question: 'Para que serve o histórico de versões?', options: ['Consultar ou recuperar estados anteriores do livro', 'Criar fórmulas', 'Alterar o teclado'], answer: 0, explain: 'O histórico regista versões guardadas na nuvem e ajuda a recuperar alterações.' }
+        },
+        {
+          id: 'excel-48', title: 'Projeto: livro de equipa controlado', level: 'Profissional', duration: '40 min',
+          intro: 'Crie um livro partilhado com entradas protegidas, responsabilidades claras e um processo de revisão.',
+          objectives: ['Preparar um ficheiro para utilização por várias pessoas', 'Documentar regras de atualização e aprovação'],
+          steps: ['Crie folhas <strong>Instruções</strong>, <strong>Entradas</strong> e <strong>Resumo</strong>; use uma Tabela e validações nas entradas.', 'Desbloqueie apenas as células editáveis, proteja fórmulas e partilhe com o grupo correto.', 'Adicione comentários para dúvidas, teste uma alteração simultânea e confirme o histórico antes de publicar o resumo.'],
+          tip: 'Um livro colaborativo precisa de regras visíveis: quem introduz, quem valida e quando se atualiza.',
+          practice: { intro: 'Entregue um mapa partilhado de tarefas ou despesas.', tasks: ['Áreas de entrada e cálculo separadas', 'Permissões e proteção testadas', 'Instruções e revisão registadas'] },
+          quiz: { question: 'O que deve ficar desbloqueado?', options: ['Apenas as células destinadas a entrada', 'Todas as fórmulas', 'Nada, em qualquer situação'], answer: 0, explain: 'Limitar a edição reduz alterações acidentais sem impedir o trabalho necessário.' }
+        }
+      ]
+    },
+    {
+      number: 'Módulo 17', title: 'Engenharia de fórmulas modernas',
+      lessons: [
+        {
+          id: 'excel-49', title: 'SEERRO, E, OU e lógica combinada', level: 'Profissional', duration: '26 min',
+          intro: 'Construa decisões robustas com vários critérios e apresente mensagens claras quando uma fórmula não pode calcular.',
+          objectives: ['Combinar condições lógicas', 'Tratar erros sem esconder problemas de dados'],
+          steps: ['Crie uma decisão com <code>=SE(E(A2&gt;=Meta;B2="Pago");"Aprovado";"Rever")</code>.', 'Teste alternativas com <strong>OU</strong> e verifique casos nos limites da regra.', 'Envolva apenas a parte arriscada em <strong>SEERRO</strong> e use uma mensagem que indique a correção necessária.'],
+          tip: 'Não substitua todos os erros por vazio; uma mensagem útil ajuda a descobrir dados em falta.',
+          practice: { intro: 'Classifique dez pedidos por valor, estado e prazo.', tasks: ['Regra com E criada', 'Alternativa com OU testada', 'Erro tratado com mensagem útil'] },
+          quiz: { question: 'Quando E devolve VERDADEIRO?', options: ['Quando todas as condições são verdadeiras', 'Quando qualquer condição é verdadeira', 'Quando existe um erro'], answer: 0, explain: 'E exige que todas as condições fornecidas sejam verdadeiras.' }
+        },
+        {
+          id: 'excel-50', title: 'PROCX, ÍNDICE e CORRESP', level: 'Profissional', duration: '28 min',
+          intro: 'Escolha uma procura moderna ou uma combinação compatível para localizar dados com segurança.',
+          objectives: ['Usar PROCX com resultado quando não encontrado', 'Construir uma procura com ÍNDICE e CORRESP'],
+          steps: ['Procure um preço por código com <code>=PROCX(A2;Produtos[Código];Produtos[Preço];"Não encontrado")</code>.', 'Reordene as colunas e confirme que PROCX continua a devolver a coluna indicada.', 'Recrie a procura com <strong>ÍNDICE</strong> e <strong>CORRESP</strong> e teste códigos existentes, vazios e desconhecidos.'],
+          tip: 'Use correspondência exata para códigos e mantenha identificadores únicos.',
+          practice: { intro: 'Ligue uma tabela de movimentos a um catálogo de produtos.', tasks: ['PROCX com mensagem criada', 'ÍNDICE e CORRESP testados', 'Casos desconhecidos verificados'] },
+          quiz: { question: 'Qual vantagem tem PROCX sobre PROCV?', options: ['Pode procurar em qualquer direção', 'Cria gráficos automaticamente', 'Dispensa uma chave de procura'], answer: 0, explain: 'PROCX permite escolher separadamente o intervalo procurado e o intervalo devolvido.' }
+        },
+        {
+          id: 'excel-51', title: 'LET, LAMBDA e matrizes dinâmicas', level: 'Profissional', duration: '32 min',
+          intro: 'Torne fórmulas complexas mais legíveis e crie cálculos reutilizáveis sem escrever VBA.',
+          objectives: ['Nomear partes de uma fórmula com LET', 'Criar e testar uma função LAMBDA'],
+          steps: ['Teste uma fórmula longa e use <strong>LET</strong> para dar nomes aos valores intermédios.', 'Crie e teste <code>=LAMBDA(valor;valor*1,23)(A2)</code> numa célula antes de a guardar.', 'Abra <strong>Fórmulas → Gestor de Nomes</strong>, guarde a LAMBDA com um nome claro e combine-a com uma matriz dinâmica numa área vazia.'],
+          tip: 'LET e LAMBDA dependem da versão do Excel; mantenha uma alternativa documentada quando o ficheiro será aberto em versões antigas.',
+          practice: { intro: 'Crie uma função reutilizável para calcular preço com imposto.', tasks: ['Fórmula simplificada com LET', 'LAMBDA testada na célula', 'Função nomeada aplicada a vários valores'] },
+          quiz: { question: 'Porque testar a LAMBDA antes de lhe dar um nome?', options: ['Para confirmar o cálculo e os parâmetros', 'Para alterar a cor', 'Para criar uma impressão'], answer: 0, explain: 'O teste direto separa erros de lógica de erros de configuração do nome.' }
+        }
+      ]
+    },
+    {
+      number: 'Módulo 18', title: 'Modelo de Dados e Power Pivot',
+      lessons: [
+        {
+          id: 'excel-52', title: 'Relacionar tabelas no Modelo de Dados', level: 'Profissional', duration: '28 min',
+          intro: 'Analise vendas, produtos e clientes sem repetir todas as informações numa única tabela gigante.',
+          objectives: ['Identificar chaves únicas e chaves de ligação', 'Criar uma relação entre tabelas'],
+          steps: ['Prepare tabelas separadas para Vendas, Produtos e Clientes; confirme que cada catálogo tem uma chave única.', 'Adicione as tabelas ao <strong>Modelo de Dados</strong> e abra <strong>Dados → Relações</strong>.', 'Relacione as chaves correspondentes e crie uma Tabela Dinâmica que combine campos de duas tabelas.'],
+          tip: 'O lado de catálogo da relação deve ter uma chave sem duplicados nem células vazias.',
+          practice: { intro: 'Relacione vendas a produtos e categorias.', tasks: ['Três tabelas limpas criadas', 'Relações válidas definidas', 'Tabela Dinâmica cruzada criada'] },
+          quiz: { question: 'O que identifica unicamente um produto?', options: ['Uma chave sem duplicados', 'A cor da linha', 'A posição da folha'], answer: 0, explain: 'Uma chave estável permite relacionar cada movimento com o registo correto.' }
+        },
+        {
+          id: 'excel-53', title: 'Medidas DAX e contexto de filtro', level: 'Profissional', duration: '32 min',
+          intro: 'Crie indicadores reutilizáveis que respondem automaticamente aos filtros do relatório.',
+          objectives: ['Distinguir coluna calculada de medida', 'Criar medidas simples no Power Pivot'],
+          steps: ['Abra <strong>Power Pivot → Gerir</strong> e confirme as relações do modelo.', 'Crie uma medida como <code>Total Vendas := SUM(Vendas[Total])</code> e formate-a como moeda.', 'Adicione Região e Categoria à Tabela Dinâmica, aplique segmentações e observe como o contexto altera a medida.'],
+          tip: 'Use medidas para agregações de relatório e colunas calculadas para valores avaliados linha a linha.',
+          practice: { intro: 'Crie medidas de total, quantidade e preço médio.', tasks: ['Medidas criadas e formatadas', 'Filtros e segmentações aplicados', 'Resultados conferidos com um cálculo simples'] },
+          quiz: { question: 'O que acontece a uma medida quando aplica um filtro?', options: ['É recalculada no contexto filtrado', 'É convertida em texto', 'Deixa de existir'], answer: 0, explain: 'As medidas DAX respondem ao contexto criado por linhas, colunas, filtros e segmentações.' }
+        },
+        {
+          id: 'excel-54', title: 'Projeto: modelo analítico de vendas', level: 'Profissional', duration: '50 min',
+          intro: 'Integre importação, relações, medidas e uma análise dinâmica num único modelo controlado.',
+          objectives: ['Construir um pequeno modelo dimensional', 'Documentar atualização e verificações'],
+          steps: ['Importe Vendas, Produtos, Clientes e Calendário com Power Query e carregue-os no Modelo de Dados.', 'Crie relações, medidas de total, margem e quantidade, e valide os totais antes de desenhar o relatório.', 'Monte uma página com Tabela Dinâmica, gráfico e segmentações; documente a origem e o procedimento Atualizar Tudo.'],
+          tip: 'Valide cada tabela e relação antes de culpar uma medida por um total inesperado.',
+          practice: { intro: 'Entregue um modelo com quatro tabelas e três medidas.', tasks: ['Consultas e relações documentadas', 'Medidas validadas', 'Relatório filtrável e atualização testada'] },
+          quiz: { question: 'Qual é a ordem mais segura?', options: ['Limpar, relacionar, validar e apresentar', 'Criar gráficos antes dos dados', 'Formatar antes de importar'], answer: 0, explain: 'Uma base validada evita que erros estruturais cheguem ao painel.' }
+        }
+      ]
+    },
+    {
+      number: 'Módulo 19', title: 'Análise visual avançada',
+      lessons: [
+        {
+          id: 'excel-55', title: 'Gráficos combinados e eixo secundário', level: 'Profissional', duration: '26 min',
+          intro: 'Compare grandezas com escalas diferentes sem tornar o gráfico enganador.',
+          objectives: ['Criar um gráfico combinado', 'Usar e explicar um eixo secundário'],
+          steps: ['Selecione uma tabela com Vendas e Margem percentual e escolha <strong>Inserir → Gráfico Combinado</strong>.', 'Mostre Vendas em colunas e Margem em linha; ative o eixo secundário apenas para a percentagem.', 'Dê títulos completos aos dois eixos, reduza elementos decorativos e confirme se a comparação continua honesta.'],
+          tip: 'Um eixo secundário exige rótulos muito claros, porque duas escalas podem sugerir relações falsas.',
+          practice: { intro: 'Compare vendas mensais e margem num gráfico.', tasks: ['Tipos de série escolhidos', 'Eixos e unidades identificados', 'Mensagem principal escrita numa frase'] },
+          quiz: { question: 'Quando faz sentido um eixo secundário?', options: ['Quando as séries usam unidades ou escalas muito diferentes', 'Em todos os gráficos', 'Apenas para mudar cores'], answer: 0, explain: 'O eixo secundário permite ler uma segunda escala, mas precisa de identificação explícita.' }
+        },
+        {
+          id: 'excel-56', title: 'Previsão, tipos de dados e Analisar Dados', level: 'Profissional', duration: '28 min',
+          intro: 'Explore tendências e funcionalidades assistidas, sabendo distinguir sugestão de resultado confirmado.',
+          objectives: ['Criar uma folha de previsão a partir de uma série temporal', 'Avaliar sugestões automáticas com espírito crítico'],
+          steps: ['Organize uma série com datas regulares e valores, depois escolha <strong>Dados → Folha de Previsão</strong>.', 'Quando disponível, experimente tipos de dados como Geografia ou Ações numa cópia sem informação sensível.', 'Use <strong>Analisar Dados</strong> para obter sugestões e confirme cada resultado comparando-o com os dados e o objetivo.'],
+          tip: 'Algumas funcionalidades exigem Microsoft 365, Internet ou regiões específicas; o curso deve continuar utilizável sem elas.',
+          practice: { intro: 'Crie uma previsão de seis períodos e avalie uma sugestão automática.', tasks: ['Frequência temporal verificada', 'Previsão e intervalo observados', 'Sugestão confirmada ou rejeitada com justificação'] },
+          quiz: { question: 'Uma sugestão automática deve ser aceite sem verificar?', options: ['Não, deve ser comparada com os dados e o contexto', 'Sim, sempre', 'Apenas se tiver muitas cores'], answer: 0, explain: 'A ferramenta ajuda a explorar, mas a interpretação e validação continuam a ser responsabilidade do utilizador.' }
+        },
+        {
+          id: 'excel-57', title: 'Projeto: painel executivo responsivo', level: 'Profissional', duration: '55 min',
+          intro: 'Transforme perguntas de gestão em indicadores e visuais que funcionam no ecrã, em PDF e numa apresentação.',
+          objectives: ['Desenhar uma hierarquia de informação', 'Testar filtros, atualização e leitura em diferentes tamanhos'],
+          steps: ['Defina três perguntas executivas e limite o painel a indicadores e gráficos que respondem diretamente a essas perguntas.', 'Construa uma grelha, adicione filtros, títulos dinâmicos e data de atualização; use cores com significado consistente.', 'Teste a atualização, filtros extremos, zoom pequeno, modo escuro do sistema e exportação para PDF.'],
+          tip: 'Um painel completo não é um painel cheio; cada elemento deve ajudar a compreender ou decidir.',
+          practice: { intro: 'Entregue uma página executiva com três indicadores e até três gráficos.', tasks: ['Perguntas e público definidos', 'Filtros e atualização validados', 'Leitura em ecrã e PDF verificada'] },
+          quiz: { question: 'O que deve determinar o conteúdo do painel?', options: ['As perguntas do utilizador', 'O número máximo de gráficos', 'As cores disponíveis'], answer: 0, explain: 'As perguntas orientam os dados, indicadores, comparações e filtros necessários.' }
+        }
+      ]
+    },
+    {
+      number: 'Módulo 20', title: 'Auditoria, governação e projeto final',
+      lessons: [
+        {
+          id: 'excel-58', title: 'Auditar fórmulas e melhorar o desempenho', level: 'Profissional', duration: '30 min',
+          intro: 'Localize a origem de um resultado, encontre dependências e reduza cálculos desnecessários.',
+          objectives: ['Usar ferramentas de auditoria de fórmulas', 'Reconhecer causas comuns de lentidão'],
+          steps: ['Selecione um resultado e use <strong>Fórmulas → Rastrear Precedentes</strong> e <strong>Rastrear Dependentes</strong>.', 'Abra <strong>Avaliar Fórmula</strong> para acompanhar o cálculo por etapas e procure referências circulares.', 'Substitua referências a colunas inteiras quando desnecessárias, evite funções voláteis em excesso e compare o tempo de recálculo.'],
+          tip: 'Otimize apenas depois de medir e preservar uma cópia funcional do modelo.',
+          practice: { intro: 'Audite um livro com três erros preparados e uma fórmula lenta.', tasks: ['Precedentes e dependentes rastreados', 'Erros explicados', 'Melhoria de desempenho comparada'] },
+          quiz: { question: 'Para que serve Avaliar Fórmula?', options: ['Ver o cálculo passo a passo', 'Criar uma tabela', 'Partilhar o ficheiro'], answer: 0, explain: 'A avaliação mostra resultados intermédios e ajuda a localizar a parte incorreta.' }
+        },
+        {
+          id: 'excel-59', title: 'Acessibilidade, privacidade e ligações externas', level: 'Profissional', duration: '28 min',
+          intro: 'Entregue um livro compreensível e sem dados, metadados ou ligações que não deveriam sair da organização.',
+          objectives: ['Executar verificações de acessibilidade e privacidade', 'Identificar ligações e conteúdos externos'],
+          steps: ['Use <strong>Rever → Verificar Acessibilidade</strong>; corrija nomes de folhas, texto alternativo, contraste e ordem lógica.', 'Abra <strong>Ficheiro → Informações → Verificar Existência de Problemas → Inspecionar Documento</strong> numa cópia.', 'Consulte ligações e consultas externas, remova dados ocultos desnecessários e teste a cópia final sem acesso às origens privadas.'],
+          tip: 'Não quebre ligações antes de guardar uma cópia: a ação pode substituir fórmulas por valores de forma difícil de reverter.',
+          practice: { intro: 'Prepare uma versão externa segura de um relatório.', tasks: ['Problemas de acessibilidade corrigidos', 'Metadados e conteúdo oculto revistos', 'Ligações externas documentadas ou removidas'] },
+          quiz: { question: 'Porque deve inspecionar uma cópia?', options: ['Algumas remoções não são fáceis de desfazer', 'Para criar mais fórmulas', 'Para mudar o idioma'], answer: 0, explain: 'A inspeção pode remover metadados e conteúdo oculto; uma cópia preserva o original.' }
+        },
+        {
+          id: 'excel-60', title: 'Projeto final: sistema completo de gestão', level: 'Projeto final', duration: '90 min',
+          intro: 'Integre entrada controlada, transformação, modelo, cálculos, colaboração e apresentação num projeto utilizável por outra pessoa.',
+          objectives: ['Construir uma solução Excel do início ao fim', 'Demonstrar qualidade técnica, clareza e segurança'],
+          steps: ['Escolha um objetivo real, defina utilizadores e requisitos, e prepare dados de teste sem informação pessoal.', 'Construa entradas validadas, consultas repetíveis, cálculos ou medidas auditáveis e um painel que responda às perguntas definidas.', 'Peça a outra pessoa para testar, corrija problemas, execute acessibilidade e inspeção, documente a atualização e entregue versões XLSX/PDF adequadas.'],
+          tip: 'A conclusão exige prova: totais reconciliados, testes registados e instruções que permitam atualizar o sistema sem o autor.',
+          practice: { intro: 'Entregue o projeto, um guia de utilização e uma lista de testes.', tasks: ['Dados, cálculos e visualização integrados', 'Testes e acessibilidade concluídos', 'Partilha, segurança e atualização documentadas'] },
+          quiz: { question: 'Quando o projeto pode ser considerado concluído?', options: ['Quando outra pessoa o consegue usar e atualizar com resultados validados', 'Quando tem muitas folhas', 'Quando foi guardado uma vez'], answer: 0, explain: 'Um sistema profissional precisa de funcionar, ser compreendido, ser testado e poder ser mantido.' }
+        }
+      ]
     }
   ]
 };
