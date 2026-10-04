@@ -26,6 +26,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Qu’est-ce qu’une feuille de calcul ?</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Qu’est-ce qu’une feuille de calcul ? » dans un fichier de test.",
@@ -63,6 +64,9 @@ window.COURSE = {
             "Appliquez « Découvrir l’interface » au contenu d’exercice et observez immédiatement le résultat.",
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
+          ],
+          "shortcuts": [
+            "Ctrl + F1"
           ],
           "tip": "Avancez lentement : pour « <strong>Découvrir l’interface</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "image": {
@@ -108,6 +112,9 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [
+            "Ctrl + S"
+          ],
           "tip": "Avancez lentement : pour « <strong>Créer, enregistrer et ouvrir des fichiers</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Créer, enregistrer et ouvrir des fichiers » dans un fichier de test.",
@@ -152,6 +159,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Texte, nombres et dates</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Texte, nombres et dates » dans un fichier de test.",
@@ -190,6 +198,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Remplissage automatique et séries</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Remplissage automatique et séries » dans un fichier de test.",
@@ -228,6 +237,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Lignes, colonnes et feuilles</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "image": {
             "file": "images/mover-copiar.png",
@@ -278,6 +288,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Polices, couleurs et bordures</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "image": {
             "file": "images/estilos-tabela.png",
@@ -322,6 +333,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Formats de nombre</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Formats de nombre » dans un fichier de test.",
@@ -360,6 +372,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Mise en forme conditionnelle</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Mise en forme conditionnelle » dans un fichier de test.",
@@ -404,6 +417,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Créer sa première formule</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Créer sa première formule » dans un fichier de test.",
@@ -441,6 +455,9 @@ window.COURSE = {
             "Appliquez « Références relatives et absolues » au contenu d’exercice et observez immédiatement le résultat.",
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
+          ],
+          "shortcuts": [
+            "F4"
           ],
           "tip": "Avancez lentement : pour « <strong>Références relatives et absolues</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
@@ -480,6 +497,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Comprendre les erreurs</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Comprendre les erreurs » dans un fichier de test.",
@@ -524,6 +542,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>SOMME, MOYENNE, MIN et MAX</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « SOMME, MOYENNE, MIN et MAX » dans un fichier de test.",
@@ -562,6 +581,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>SI et décisions logiques</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « SI et décisions logiques » dans un fichier de test.",
@@ -600,6 +620,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>NB.SI et SOMME.SI</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « NB.SI et SOMME.SI » dans un fichier de test.",
@@ -643,6 +664,9 @@ window.COURSE = {
             "Appliquez « Transformer une plage en tableau » au contenu d’exercice et observez immédiatement le résultat.",
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
+          ],
+          "shortcuts": [
+            "Ctrl + T"
           ],
           "tip": "Avancez lentement : pour « <strong>Transformer une plage en tableau</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "image": {
@@ -688,6 +712,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Trier et filtrer</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Trier et filtrer » dans un fichier de test.",
@@ -726,6 +751,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Validation et listes déroulantes</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Validation et listes déroulantes » dans un fichier de test.",
@@ -770,6 +796,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Choisir le bon graphique</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Choisir le bon graphique » dans un fichier de test.",
@@ -808,6 +835,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Créer et modifier un graphique</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Créer et modifier un graphique » dans un fichier de test.",
@@ -846,6 +874,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Graphiques sparkline et tableaux de bord simples</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Graphiques sparkline et tableaux de bord simples » dans un fichier de test.",
@@ -890,6 +919,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>RECHERCHEX : rechercher une information</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « RECHERCHEX : rechercher une information » dans un fichier de test.",
@@ -928,6 +958,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Tableaux croisés dynamiques</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Tableaux croisés dynamiques » dans un fichier de test.",
@@ -966,6 +997,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Segments et graphiques croisés dynamiques</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Segments et graphiques croisés dynamiques » dans un fichier de test.",
@@ -1010,6 +1042,12 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [
+            "Ctrl + Seta",
+            "Ctrl + Shift + Seta",
+            "F2",
+            "Alt + ="
+          ],
           "tip": "Avancez lentement : pour « <strong>Raccourcis qui font gagner du temps</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Raccourcis qui font gagner du temps » dans un fichier de test.",
@@ -1047,6 +1085,9 @@ window.COURSE = {
             "Appliquez « Imprimer sans surprise » au contenu d’exercice et observez immédiatement le résultat.",
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
+          ],
+          "shortcuts": [
+            "Ctrl + P"
           ],
           "tip": "Avancez lentement : pour « <strong>Imprimer sans surprise</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
@@ -1086,6 +1127,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Protéger les formules et les feuilles</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Protéger les formules et les feuilles » dans un fichier de test.",
@@ -1130,6 +1172,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Planifier un classeur professionnel</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Planifier un classeur professionnel » dans un fichier de test.",
@@ -1168,6 +1211,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Construire un tableau de bord des ventes</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Construire un tableau de bord des ventes » dans un fichier de test.",
@@ -1206,6 +1250,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Révision, accessibilité et livraison</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Révision, accessibilité et livraison » dans un fichier de test.",
@@ -1250,6 +1295,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Nettoyer le texte et supprimer les doublons</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Nettoyer le texte et supprimer les doublons » dans un fichier de test.",
@@ -1288,6 +1334,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Séparer et combiner du texte</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Séparer et combiner du texte » dans un fichier de test.",
@@ -1326,6 +1373,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Dates, échéances et jours ouvrés</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Dates, échéances et jours ouvrés » dans un fichier de test.",
@@ -1370,6 +1418,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>SOMME.SI.ENS, NB.SI.ENS et MOYENNE.SI.ENS</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « SOMME.SI.ENS, NB.SI.ENS et MOYENNE.SI.ENS » dans un fichier de test.",
@@ -1408,6 +1457,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>FILTRE, TRIER et UNIQUE</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « FILTRE, TRIER et UNIQUE » dans un fichier de test.",
@@ -1446,6 +1496,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Noms et références structurées</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Noms et références structurées » dans un fichier de test.",
@@ -1490,6 +1541,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Sous-totaux et groupes</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Sous-totaux et groupes » dans un fichier de test.",
@@ -1528,6 +1580,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Valeur cible et Gestionnaire de scénarios</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Valeur cible et Gestionnaire de scénarios » dans un fichier de test.",
@@ -1566,6 +1619,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Solveur : optimiser une décision</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Solveur : optimiser une décision » dans un fichier de test.",
@@ -1610,6 +1664,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Importer un CSV et corriger les types</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Importer un CSV et corriger les types » dans un fichier de test.",
@@ -1648,6 +1703,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Transformer et combiner des tableaux dans Power Query</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Transformer et combiner des tableaux dans Power Query » dans un fichier de test.",
@@ -1686,6 +1742,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Enregistrer une première macro en toute sécurité</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Enregistrer une première macro en toute sécurité » dans un fichier de test.",
@@ -1730,6 +1787,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Projet : créer un budget personnel</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Projet : créer un budget personnel » dans un fichier de test.",
@@ -1768,6 +1826,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Projet : créer un suivi de stock</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Projet : créer un suivi de stock » dans un fichier de test.",
@@ -1806,6 +1865,7 @@ window.COURSE = {
             "Faites un <strong>exercice autonome</strong> sur un autre exemple, sans consulter les étapes.",
             "Utilisez <strong>Fichier → Enregistrer</strong>, donnez un nom explicite au fichier et contrôlez le résultat."
           ],
+          "shortcuts": [],
           "tip": "Avancez lentement : pour « <strong>Projet : créer un tableau de bord de gestion</strong> », vérifiez le résultat après chaque clic avant de continuer.",
           "practice": {
             "intro": "Réalisez maintenant « Projet : créer un tableau de bord de gestion » dans un fichier de test.",
